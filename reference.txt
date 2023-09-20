@@ -1,0 +1,16 @@
+Installation setUp
+-----------------
+1. Create a folder anywhere.
+2. Open VsCode in the folder path.
+3. Initialize the npm project uing command -> npm init in VsCode terminal.
+4. Give project name as "bootstrap-npm".
+5. Others as default value and yes.
+6. Package.json is created automatically.
+7. Create index.html.
+8. Install bootstrap using npm instal bootstrap.
+9. Node Modules and the dependencies are added automatically.
+10. Add this line before </head>.
+  <link rel = "stylesheet" href = "node_modules/bootstrap/dist/css/bootstrap.css" />
+11. Add this line before </body>.
+  <script src = "node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>.
+12. Set up is done.
